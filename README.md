@@ -15,8 +15,6 @@ I am learning these things in web devlopment
 - MongoDB
 - Node
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabmitra471)](https://github.com/arnabmitra471/github-readme-stats)
-
 I am also a passionate python desktop app developer who loves to create desktop apps using tkinter
 
 I am also learning tailwind css which is a popular css framework and I am also practicing to create UI clones using HTML and tailwind css
