@@ -22,5 +22,4 @@ I have a lot of interest in wev development and Android development
 <!---
 arnabmitra471/arnabmitra471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-[![GitHub Streak](https://streak-stats.demolab.com?user=arnabmitra471)](https://git.io/streak-stats)
+--->[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
