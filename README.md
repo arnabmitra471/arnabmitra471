@@ -15,7 +15,7 @@ I am learning these things in web devlopment
 - MongoDB
 - Node
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabmitra471)](https://github.com/arnabmitra471/github-readme-stats)
 
 I am also a passionate python desktop app developer who loves to create desktop apps using tkinter
 
